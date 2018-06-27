@@ -1,0 +1,6 @@
+﻿{
+   "SmartContractConfiguration": {
+      "ApiUrl": "http://localhost:38220/api/SmartContracts",
+      "SmartContractAddress": "mtLrJ42YSW3DEXV1oaaRB5VEg2ULg4rN7N"
+   }
+}
